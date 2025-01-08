@@ -7,6 +7,7 @@ import ContactUs from './subComponents/ContactUs';
 import Kakaomap from './map';
 // yarn add gh-pages
 // npm install gh-pages
+// yarn add @emailjs/browser --save
 
 function App() {
   return (
